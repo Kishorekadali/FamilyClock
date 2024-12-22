@@ -1,0 +1,31 @@
+body{
+  
+    background-image:url('./assets/familypic.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+
+    text-align: center;
+   
+
+  
+
+  }
+
+.clock-container{
+     backdrop-filter: blur(5px);
+     width:100vw;
+     padding: 10px 0;
+
+}
+
+.clock{
+     color:white;
+     font-size:6rem;
+     font-weight: bold;
+     font-family: monospace;
+     text-shadow: 4px 4px 6px black;
+
+} 
